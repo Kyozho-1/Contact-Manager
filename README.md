@@ -11,8 +11,7 @@ Version 1.0.0
 + Exporting contact data to a CSV file.
 
 ## Requirements
-+ Windows
-+ A compatible Java Development Kit (JDK)
++ Java Development Kit (JDK) with desktop support
 + Gson 2.14.0
 
 ## Dependencies
