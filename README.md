@@ -16,17 +16,17 @@ Requirements
 ---
 + Windows
 + Java 1.1 - Java 26.0.2 (The latest version of Java)
++ Gson 2.14.0
 
-## Third-Party Licenses
+## Dependencies
 
-### Gson
+This project uses Gson version 2.14.0 to handle JSON data.
 
-This project uses [Gson](https://github.com/google/gson), a Java library for converting Java objects to and from JSON.
+Gson is licensed under the Apache License, Version 2.0. See THIRD-PARTY-LICENSES.md for third-party licensing information.
 
-- **Version:** 2.14.0
-- **Copyright:** Google and the Gson contributors
-- **License:** Apache License 2.0
-- **License text:** https://www.apache.org/licenses/LICENSE-2.0.txt
-- **Source code:** https://github.com/google/gson
+## Running the Project
 
-Gson is a third-party dependency and is not original code written for this project.
+1. Clone or download this repository.
+2. Open the project in IntelliJ IDEA.
+3. Ensure Gson 2.14.0 is configured as a project dependency.
+4. Build and run the application from src/Main.java.
