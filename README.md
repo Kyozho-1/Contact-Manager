@@ -1,4 +1,4 @@
-Chase's Contact Manger  
+Chase's Contact Manager  
 Version 1.0.0
 ---
 
@@ -7,7 +7,7 @@ Version 1.0.0
 + Deleting a contact.
 + Editing a contact.
 + Searching for a contact via name.
-+ Importing contact data via CSV. file.
++ Importing contact data via CSV file.
 + Exporting contact data to a CSV file.
 
 ## Requirements
